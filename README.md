@@ -62,9 +62,3 @@ read but awkward to update; the star schema version is the opposite. Being
 able to explain that trade-off with a concrete example is the actual skill
 here, not the MongoDB syntax itself.
 
-## Honesty note
-
-This has been run and tested locally against `mongomock`, not against a
-production MongoDB cluster at scale. I'm not claiming operational NoSQL
-experience — I'm showing the modelling and query work I've done to start
-learning it.
